@@ -1,24 +1,6 @@
 # gamedev-10
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 10
+Начнём с чего-нибудь очень простого! Пользователи часто ставят одинаковые, легко взламываемые пароли. Вот примеры уязвимых паролей.  
+Создайте игру, в которой игроку нужно будет угадать, какой из базовых паролей более популярный. Вы можете реализовать её любым удобным способом: консольным интерфейсом, веб-страницей с двумя кнопками (как https://moreorless.io/) или иначе.  
+Релиз: [v0.1.0](https://github.com/Not-cottage-cheese-but-cottage-cheese/Gamedev10/releases/tag/v0.1.0)  
